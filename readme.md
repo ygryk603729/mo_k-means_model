@@ -31,6 +31,6 @@
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
 ### Файлы
-- `Лабораторная_Кластеризация_клиентов.ipynb` — основной Jupyter-ноутбук с полным кодом и визуализациями  
+- `main.ipynb` — основной Jupyter-ноутбук с полным кодом и визуализациями  
 - `Online_Retail_Customer_Segmentation_Final.xlsx` — итоговая таблица клиентов с метками кластеров  
 - `rfm_final_ready_for_kmeans.csv` — подготовленные признаки для модели
